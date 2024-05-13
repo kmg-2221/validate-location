@@ -57,7 +57,6 @@ app.get('/validate/', async (req, res) => {
     
         //return requestXml;
     
-    
 
     // res.status(200).json(hazardHubResponse);
 });
